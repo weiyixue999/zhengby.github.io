@@ -19,8 +19,10 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 <!-- 这是一个注释 -->
 
  ## 🔥News 
+ 
  **[2025/03] [Preprint]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097/)]
  
+ &nbsp;
  
 <!--  One paper was submitted to IROS 2025. [[slides]] -->
 <!-- **[2024/12]** Invited Talk at Princeton University. [[slides]](../files/Talk_princeton_zehan.pdf)    -->
@@ -44,7 +46,9 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 - July 2023 - Present  
   **Research Assistant** - **Tongji Integrated Positioning Lab ([TJ-IP Lab](https://github.com/TJ-IPLab/)), Tongji University**  
   Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm)  
-  Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution  
+  Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution
+  
+&nbsp;
 
 ## 🛠️Engineering Experience
 - 2019 - 2022  
