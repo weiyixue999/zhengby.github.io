@@ -16,13 +16,12 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 &nbsp;
 
-<!-- 这是一个注释 -->
 
- ## 🔥News
+## 🔥News
 
 **[2025/03] [Preprint]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097/)]
  
- &nbsp;
+&nbsp;
  
 <!--  One paper was submitted to IROS 2025. [[slides]] -->
 <!-- **[2024/12]** Invited Talk at Princeton University. [[slides]](../files/Talk_princeton_zehan.pdf)    -->
