@@ -18,9 +18,9 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 <!-- 这是一个注释 -->
 
- ## 🔥News 
- 
- **[2025/03] [Preprint]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097/)]
+ ## 🔥News
+
+**[2025/03] [Preprint]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097/)]
  
  &nbsp;
  
