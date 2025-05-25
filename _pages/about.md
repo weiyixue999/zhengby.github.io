@@ -56,13 +56,13 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 ## 🛠️Engineering Experience
 - 2019 - 2022  
-  **Tongji University (Formula SAE) [DIAN Racing Team](http://www.dianracing.com/)** ⚡🏎️ 
+  **Tongji University (Formula SAE) [DIAN Racing Team](http://www.dianracing.com/)** ⚡🏎️   
   Aerodynamics Designer  
   Achieve 1st in FSEC 2020  
   Best Design Report Award in FSEC 2020  
 
 - 2021 - 2022  
-**Tongji University (Formula SAE) [DIAN Driverless Team](http://www.dianracing.com/)** ⚡🏎️  
+**Tongji University (Formula SAE) [DIAN Driverless Team](http://www.dianracing.com/)** ⚡🏎️   
   Aerodynamics Designer & Perception Group Member  
   Achieve 3rd in FSAC 2021  
   Best Design Report Award in FSAC 2021 
