@@ -46,6 +46,11 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
   **Research Assistant** - **Tongji Integrated Positioning Lab ([TJ-IP Lab](https://github.com/TJ-IPLab/)), Tongji University**  
   Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm)  
   Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution
+
+- April 2025 - Present  
+  **Research Intern** - **HKUST-GZ NLP Group, HKUST(GZ)**  
+  Advisor: [Prof. Xuming Hu](https://xuminghu.github.io/) and [Dr. Xu Zheng](https://zhengxujosh.github.io/)    
+  Research included: MLLMs, Embodied AI
   
 &nbsp;
 
