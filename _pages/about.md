@@ -44,7 +44,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 ## 💻Research Experience
 - July 2023 - Present  
   **Research Assistant** - **Tongji Integrated Positioning Lab ([TJ-IP Lab](https://github.com/TJ-IPLab/)), Tongji University**  
-  Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm)  
+  Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm) and [Prof. Guirong Zhuo](https://auto.tongji.edu.cn/info/1180/6595.htm)         
   Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution
 
 - April 2025 - Present  
