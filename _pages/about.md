@@ -50,7 +50,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 - April 2025 - Present  
   **Research Intern** - **NLP-MM Group, HKUST(GZ)**  
   Advisor: [Prof. Xuming Hu](https://xuminghu.github.io/) and [Dr. Xu Zheng](https://zhengxujosh.github.io/)    
-  Research included: MLLMs, Embodied AI
+  Research included: MLLMs, Embodied AI, Multimodal Spatial Reasoning 
   
 &nbsp;
 
