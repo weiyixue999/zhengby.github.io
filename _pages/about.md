@@ -19,14 +19,14 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 ## 🔥News
 
-**[2025/06]** Invited as a Reviewer for IEEE Robotics and Automation Letters (RA-L).    
-**[2025/06]** 🎉 One paper on 4D radar super-resolution accepted to IROS 2025.        
-**[2025/04]** Started an internship at HKUST(GZ), Guangzhou, China.    
-**[2024/12]** Passed the mid-term evaluation of the master's program.    
-**[2024/06]** Published an invention patent on LiDAR place recognition.    
-**[2023/09]** Joined TJ-IP Lab at Tongji University to pursue my M.Sc. degree.    
-**[2023/06]** Awarded "Excellent Graduate" of Tongji University.    
-**[2023/06]** Graduated with a Bachelor's degree from Tongji University, Shanghai, China.    
+**[2025/06]**  Invited as a Reviewer for IEEE Robotics and Automation Letters (RA-L).    
+**[2025/06]**  🎉 One paper on 4D radar super-resolution accepted to IROS 2025.        
+**[2025/04]**  Started an internship at HKUST(GZ), Guangzhou, China.    
+**[2024/12]**  Passed the mid-term evaluation of the master's program.    
+**[2024/06]**  Published an invention patent on LiDAR place recognition.    
+**[2023/09]**  Joined TJ-IP Lab at Tongji University to pursue my M.Sc. degree.    
+**[2023/06]**  Awarded "Excellent Graduate" of Tongji University.    
+**[2023/06]**  Graduated with a Bachelor's degree from Tongji University, Shanghai, China.    
  
 &nbsp;
 
