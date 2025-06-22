@@ -60,7 +60,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="../images/R2LDM.gif" width="600" />
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/R2LDM.gif" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model</i>"<br>   
@@ -73,7 +73,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="../images/LPR.png" width="600" />
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>A System and Method for LiDAR Relocalization Based on Fused Semantic Information Descriptors</i>"<br>   
