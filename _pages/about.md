@@ -37,7 +37,7 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 <!-- **[2024/12]** Invited as a Reviewer for ICML. -->
 <!-- &nbsp;   -->
 
-<!--## 📝Publications -->
+## 📝Publications 
 <!--<div class='paper-box'><div class='paper-box-image'><img src='..\static\images\LiDAR4D\dynamic_scene.png' alt="lidar4d" width="100%"> -->
 <!--</div><div class='paper-box-text' markdown="1"> -->
 <!--**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   --> 
@@ -46,8 +46,15 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 <!--**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]] --><!--(https://dyfcalid.github.io/LiDAR4D) &#124; [[Video]](https://www.youtube.com/watch?v=E6XyG3A3EZ8) &#124; [[Talk]]--><!--(https://www.bilibili.com/video/BV1Uy411Y766/?t=10870) &#124; [[Slides]]--><!--(https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing) &#124; [[Poster]]--><!--(https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing)**   --><!--
 Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.  -->
 
-<!--</div> -->
-<!--</div> -->
+<div class='paper-box'><div class='paper-box-image'><img src='../images/LPR.png' alt="lidarpr" width="50%"> 
+</div><div class='paper-box-text' markdown="1"> 
+
+**A System and Method for LiDAR Relocalization Based on Fused Semantic Information Descriptors**    
+**Boyuan Zheng**, Guirong Zhuo, Lu Xiong.    
+A GNSS-free LiDAR localization solution comprising place recognition and metric localization modules. The system enhances matching success rates by generating virtual point clouds and descriptors, achieving indoor localization accuracy within 10 cm.  
+
+</div>
+</div>
 
 
 ## 💻Research Experience
