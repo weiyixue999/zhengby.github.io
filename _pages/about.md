@@ -19,9 +19,18 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 ## 🔥News
 
-**[2025/06] [IROS 2025]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097v2)]
+**[2025/06]** Invited as a Reviewer for IEEE Robotics and Automation Letters (RA-L).    
+**[2025/06]** 🎉 One paper on 4D radar super-resolution accepted to IROS 2025.        
+**[2025/04]** Started an internship at HKUST(GZ), Guangzhou, China.    
+**[2024/12]** Passed the mid-term evaluation of the master's program.    
+**[2024/06]** Published an invention patent on LiDAR place recognition.    
+**[2023/09]** Joined TJ-IP Lab at Tongji University to pursue my M.Sc. degree.    
+**[2023/06]** Awarded "Excellent Graduate" of Tongji University.    
+**[2023/06]** Graduated with a Bachelor's degree from Tongji University, Shanghai, China.    
  
 &nbsp;
+
+<!--  **[2025/06] [IROS 2025]** We proposed a novel diffusion-based framework for sparse 4D radar point cloud super-resolution, outperforming **state-of-the-art** baselines in 4D radar point cloud super-resolution and achieving up to **31.7%** improvement in point cloud registration recall rate and **24.9%** improvement in object detection accuracy. [[paper](https://arxiv.org/pdf/2503.17097v2)]   -->
  
 <!--  One paper was submitted to IROS 2025. [[slides]] -->
 <!-- **[2024/12]** Invited Talk at Princeton University. [[slides]](../files/Talk_princeton_zehan.pdf)    -->
