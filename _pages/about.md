@@ -124,6 +124,6 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 - Outstanding Student of Tongji University, 2021
 - First Prize of Tongji University Scholarship (Top 5%), 2021, 2022
 - National First Prize in Formula Student Electric China Competition (FSEC), 2020
-- Undergraduate Freshman Scholarship of Tongji University (Top 3 in HeBei Province), 2018  
+- Undergraduate Freshman Scholarship of Tongji University (Top 3 in Hebei Province), 2018  
 
 &nbsp;  
