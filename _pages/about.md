@@ -69,7 +69,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
     <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>
       <a href="https://arxiv.org/pdf/2503.17097">Arxiv</a>
-      <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/youtube2.png" width="20" height="20" hspace="5">
+      <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/youtube1.png" width="20" height="20" hspace="5">
       <a href="https://www.youtube.com/watch?v=p8hqg3TpJgE">Video</a>
     </span><br>
   </td>
